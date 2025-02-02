@@ -1,0 +1,158 @@
+﻿Product,Sum of Boxes,Order_Status,Geo
+50% Dark Bites,463,Cancelled,India
+50% Dark Bites,1485,Delivered,Canada
+50% Dark Bites,6535,Delivered,India
+50% Dark Bites,2659,Delivered,New Zealand
+50% Dark Bites,4687,Delivered,UK
+70% Dark Bites,236,Cancelled,India
+70% Dark Bites,281,Cancelled,UK
+70% Dark Bites,1631,Delivered,Canada
+70% Dark Bites,9580,Delivered,India
+70% Dark Bites,6180,Delivered,New Zealand
+70% Dark Bites,5775,Delivered,UK
+85% Dark Bars,118,Cancelled,Canada
+85% Dark Bars,4374,Cancelled,India
+85% Dark Bars,2647,Cancelled,New Zealand
+85% Dark Bars,10582,Cancelled,UK
+85% Dark Bars,27340,Delivered,Canada
+85% Dark Bars,75781,Delivered,India
+85% Dark Bars,33985,Delivered,New Zealand
+85% Dark Bars,74071,Delivered,UK
+99% Dark & Pure,3922,Cancelled,India
+99% Dark & Pure,660,Cancelled,New Zealand
+99% Dark & Pure,2440,Cancelled,UK
+99% Dark & Pure,5501,Delivered,Canada
+99% Dark & Pure,29037,Delivered,India
+99% Dark & Pure,18222,Delivered,New Zealand
+99% Dark & Pure,23408,Delivered,UK
+After Nines,891,Cancelled,India
+After Nines,861,Cancelled,UK
+After Nines,3184,Delivered,Canada
+After Nines,13531,Delivered,India
+After Nines,5888,Delivered,New Zealand
+After Nines,9911,Delivered,UK
+Almond Choco,915,Cancelled,Canada
+Almond Choco,292,Cancelled,New Zealand
+Almond Choco,9929,Delivered,India
+Almond Choco,5151,Delivered,New Zealand
+Almond Choco,13396,Delivered,UK
+Baker's Choco Chips,1011,Cancelled,India
+Baker's Choco Chips,167,Cancelled,New Zealand
+Baker's Choco Chips,17,Cancelled,UK
+Baker's Choco Chips,1628,Delivered,Canada
+Baker's Choco Chips,7984,Delivered,India
+Baker's Choco Chips,3188,Delivered,New Zealand
+Baker's Choco Chips,14204,Delivered,UK
+Caramel Stuffed Bars,944,Cancelled,Canada
+Caramel Stuffed Bars,2951,Cancelled,India
+Caramel Stuffed Bars,2350,Cancelled,New Zealand
+Caramel Stuffed Bars,1192,Cancelled,UK
+Caramel Stuffed Bars,6661,Delivered,Canada
+Caramel Stuffed Bars,41322,Delivered,India
+Caramel Stuffed Bars,23477,Delivered,New Zealand
+Caramel Stuffed Bars,53339,Delivered,UK
+Choco Coated Almonds,516,Cancelled,Canada
+Choco Coated Almonds,2520,Cancelled,India
+Choco Coated Almonds,2909,Cancelled,New Zealand
+Choco Coated Almonds,3295,Cancelled,UK
+Choco Coated Almonds,7179,Delivered,Canada
+Choco Coated Almonds,37139,Delivered,India
+Choco Coated Almonds,11809,Delivered,New Zealand
+Choco Coated Almonds,47671,Delivered,UK
+Drinking Coco,210,Cancelled,Canada
+Drinking Coco,511,Cancelled,India
+Drinking Coco,222,Cancelled,New Zealand
+Drinking Coco,1232,Cancelled,UK
+Drinking Coco,4774,Delivered,Canada
+Drinking Coco,16859,Delivered,India
+Drinking Coco,8877,Delivered,New Zealand
+Drinking Coco,16718,Delivered,UK
+Eclairs,284,Cancelled,Canada
+Eclairs,699,Cancelled,India
+Eclairs,858,Cancelled,UK
+Eclairs,596,Delivered,Canada
+Eclairs,5095,Delivered,India
+Eclairs,3002,Delivered,New Zealand
+Eclairs,4576,Delivered,UK
+Fruit & Nut Bars,1797,Cancelled,Canada
+Fruit & Nut Bars,1999,Cancelled,India
+Fruit & Nut Bars,1071,Cancelled,New Zealand
+Fruit & Nut Bars,1110,Cancelled,UK
+Fruit & Nut Bars,7133,Delivered,Canada
+Fruit & Nut Bars,27349,Delivered,India
+Fruit & Nut Bars,13062,Delivered,New Zealand
+Fruit & Nut Bars,29130,Delivered,UK
+Manuka Honey Choco,701,Cancelled,Canada
+Manuka Honey Choco,4058,Cancelled,India
+Manuka Honey Choco,6312,Cancelled,New Zealand
+Manuka Honey Choco,1492,Cancelled,UK
+Manuka Honey Choco,14765,Delivered,Canada
+Manuka Honey Choco,76378,Delivered,India
+Manuka Honey Choco,35197,Delivered,New Zealand
+Manuka Honey Choco,66904,Delivered,UK
+Milk Bars,554,Cancelled,Canada
+Milk Bars,1004,Cancelled,India
+Milk Bars,4960,Cancelled,UK
+Milk Bars,8660,Delivered,Canada
+Milk Bars,33614,Delivered,India
+Milk Bars,17046,Delivered,New Zealand
+Milk Bars,25374,Delivered,UK
+Mint Chip Choco,1661,Cancelled,Canada
+Mint Chip Choco,2110,Cancelled,India
+Mint Chip Choco,1923,Cancelled,UK
+Mint Chip Choco,10317,Delivered,Canada
+Mint Chip Choco,59293,Delivered,India
+Mint Chip Choco,25834,Delivered,New Zealand
+Mint Chip Choco,63248,Delivered,UK
+Orange Choco,303,Cancelled,Canada
+Orange Choco,604,Cancelled,India
+Orange Choco,63,Cancelled,New Zealand
+Orange Choco,452,Cancelled,UK
+Orange Choco,1502,Delivered,Canada
+Orange Choco,6136,Delivered,India
+Orange Choco,1950,Delivered,New Zealand
+Orange Choco,7466,Delivered,UK
+Organic Choco Syrup,471,Cancelled,Canada
+Organic Choco Syrup,931,Cancelled,India
+Organic Choco Syrup,465,Cancelled,New Zealand
+Organic Choco Syrup,1691,Cancelled,UK
+Organic Choco Syrup,6652,Delivered,Canada
+Organic Choco Syrup,35232,Delivered,India
+Organic Choco Syrup,19489,Delivered,New Zealand
+Organic Choco Syrup,35064,Delivered,UK
+Peanut Butter Cubes,314,Cancelled,Canada
+Peanut Butter Cubes,1336,Cancelled,India
+Peanut Butter Cubes,1709,Cancelled,UK
+Peanut Butter Cubes,11863,Delivered,Canada
+Peanut Butter Cubes,34652,Delivered,India
+Peanut Butter Cubes,17873,Delivered,New Zealand
+Peanut Butter Cubes,33861,Delivered,UK
+Raspberry Choco,1306,Cancelled,Canada
+Raspberry Choco,7188,Cancelled,India
+Raspberry Choco,626,Cancelled,New Zealand
+Raspberry Choco,7319,Cancelled,UK
+Raspberry Choco,30133,Delivered,Canada
+Raspberry Choco,87690,Delivered,India
+Raspberry Choco,53754,Delivered,New Zealand
+Raspberry Choco,84136,Delivered,UK
+Smooth Silky Salty,476,Cancelled,Canada
+Smooth Silky Salty,2039,Cancelled,India
+Smooth Silky Salty,1611,Cancelled,New Zealand
+Smooth Silky Salty,10509,Delivered,Canada
+Smooth Silky Salty,27801,Delivered,India
+Smooth Silky Salty,15979,Delivered,New Zealand
+Smooth Silky Salty,32036,Delivered,UK
+Spicy Special Slims,2997,Cancelled,India
+Spicy Special Slims,1930,Cancelled,New Zealand
+Spicy Special Slims,710,Cancelled,UK
+Spicy Special Slims,14977,Delivered,Canada
+Spicy Special Slims,36160,Delivered,India
+Spicy Special Slims,18951,Delivered,New Zealand
+Spicy Special Slims,47887,Delivered,UK
+White Choc,2489,Cancelled,India
+White Choc,380,Cancelled,New Zealand
+White Choc,1967,Cancelled,UK
+White Choc,5096,Delivered,Canada
+White Choc,23083,Delivered,India
+White Choc,11304,Delivered,New Zealand
+White Choc,26249,Delivered,UK
